@@ -22,6 +22,5 @@ namespace LineComparisonProblem
             Console.WriteLine(length);
             return length;
         }
-
     }
 }
